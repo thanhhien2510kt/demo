@@ -1,0 +1,5 @@
+đẩy code lên project đã tạo sẵn trước đó 
+- git status ( kiểm tra trạng thái của files)
+- git add. (thêm file)
+- git commit -m " your message" ( tạo nội dung tin nhắn)
+- git push origin main
